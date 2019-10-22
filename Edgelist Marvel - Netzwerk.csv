@@ -1,0 +1,9 @@
+from ,to ,weight
+SR,BB,3
+SR,WM,2
+SR,SW,3
+SR,CB,1
+BB,SW,2
+CB,WM,2
+SL,SW,1
+WM,SW,1
