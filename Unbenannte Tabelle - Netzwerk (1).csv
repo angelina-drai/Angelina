@@ -1,0 +1,9 @@
+from ,to ,weight
+Steve Rogers,Bucky Barnes,3
+Steve Rogers,Wanda Maximoff,2
+Steve Rogers,Sam Wilson ,3
+Steve Rogers,Clint Barton,1
+Bucky Barnes ,Sam Wilson ,2
+Clint Barton,Wanda Maximoff,2
+Scott Lang ,Sam Wilson ,1
+Wanda Maximoff,Sam Wilson ,1
